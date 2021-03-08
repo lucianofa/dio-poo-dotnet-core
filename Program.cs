@@ -10,9 +10,9 @@ namespace DIO.Bank
         {
 
             // Teste do override do ToString()
-            //Conta minhaconta = new Conta(TipoConta.PessoaFisica, 0, 0, "Luciano Faria");
-            //Console.WriteLine(minhaconta.ToString());
-            //Console.ReadLine();
+            // Conta minhaconta = new Conta(TipoConta.PessoaFisica, 0, 0, "Luciano Faria");
+            // Console.WriteLine(minhaconta.ToString());
+            // Console.ReadLine();
     
             string opcaoUsuario = ObterOpcaoUsuario();
 
